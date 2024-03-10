@@ -4,9 +4,6 @@
 
 ## Sobre
 Uma pequena e poderosa ferramenta para testar e estressar TCP/IP de um servidor, muito útil para realizar testes.Note que a aplicação é apenas um node DoS que você pode usar em uma ou mais máquinas como um "cluster" para rodar os processos e testar seu ambiente em um cenário de ataque DDoS.
-## ⚠️ Disclaimer
-Apesar de simples, tenha consiência de que não me responsabilizo pelo mal uso. A ferramenta foi desenvolvida apenas para fins de teste em ambiente controlado e autorizado. O uso de má fé para prejudicar terceiros é de sua inteira responsabilidade.
-
 
 - [Contexto](https://tecnoblog.net/responde/o-que-e-um-ataque-ddos/).
 
